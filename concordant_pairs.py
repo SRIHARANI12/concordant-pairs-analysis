@@ -36,7 +36,7 @@ print("Risk Ties:", risk_ties)
 print("Permissible Pairs:", permissible)
 print("Ties:", ties)
 
-# Example
+# Example 
 concordant = 0
 discordant = 6
 risk_ties = 0
