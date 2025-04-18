@@ -14,7 +14,7 @@ The program also generates a **bar chart** to visually represent the analysis re
 
 ---
 
-##  Features
+## 🧠 Features
 
 - Accepts input data (pairs of scores/ranks)
 - Automatically calculates:
