@@ -37,8 +37,9 @@ risks = [4, 3, 2, 1]
 
 ## 📁 Files Included
 
-- `concordant_pairs.py` – Main Python script  
-- `output.png` – Bar chart output image  
 - `README.md` – Project documentation
+- `concordant_pairs.py` – Main Python script  
+- `output.png` – Bar chart output image 
+- `outputvalue.png` – Value output
 ```
 
