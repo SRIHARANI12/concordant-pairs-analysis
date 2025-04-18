@@ -9,9 +9,9 @@ This Python program analyzes survival data to count:
 
 ## 📁 Files Included
 
-- `concordant_pairs.py` – Python code to perform the analysis.
-- `output.png` – Screenshot of the terminal output (if required).
-- `README.md` – Project description and usage instructions.
+- `concordant_pairs.py` 
+- `output.png`
+- `README.md` 
 
 ## 📊 Sample Input Used in Code
 
