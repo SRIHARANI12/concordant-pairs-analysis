@@ -35,20 +35,6 @@ times = [1, 2, 3, 4]
 risks = [4, 3, 2, 1]
 ```
 
-### 📈 Output Example
-
-```
-Concordant Pairs: 0
-Discordant Pairs: 6
-Risk Ties: 0
-Permissible Pairs: 6
-Ties: 0
-```
-
-![Analysis Graph](output.png)
-
----
-
 ## 📁 Files Included
 
 - `concordant_pairs.py` – Main Python script  
