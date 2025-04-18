@@ -36,7 +36,7 @@ Matplotlib – For visualizing the pair analysis (bar chart output).
 times = [1, 2, 3, 4]
 risks = [4, 3, 2, 1]
 
-📈 Output Example
+## 📈 Output Example
 
 ![Analysis Graph](output.png)
 
