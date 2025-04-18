@@ -22,14 +22,14 @@ def analyze_concordant_pairs(times, risks):
     return concordant, discordant, risk_ties, permissible, ties
 
 
-# ✅ Example Data
+# Example Data
 times = [1, 2, 3, 4]
 risks = [4, 3, 2, 1]
 
-# 🔍 Analyze
+# Analyze
 concordant, discordant, risk_ties, permissible, ties = analyze_concordant_pairs(times, risks)
 
-# 📊 Output
+# Output
 print("Concordant Pairs:", concordant)
 print("Discordant Pairs:", discordant)
 print("Risk Ties:", risk_ties)
