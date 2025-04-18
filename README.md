@@ -1,17 +1,21 @@
-## Concordant Pairs and Risk Ties Analysis
-## 🔍 Project Overview
-This project implements a Python program to analyze Concordant Pairs, Discordant Pairs, Risk Ties, and Permissible Pairs from a given dataset. This type of analysis is useful in statistical evaluation, especially in evaluating relationships between variables in ranking systems and biomedical data comparison.
+# Concordant Pairs and Risk Ties Analysis
 
-The program also provides a visual representation of the analysis results using a bar chart.
+##  Project Overview
+This project implements a Python program to analyze **Concordant Pairs**, **Discordant Pairs**, **Risk Ties**, **Ties**, and **Permissible Pairs** from a given dataset.  
+This type of analysis is useful in statistical evaluation, especially for evaluating relationships between variables in ranking systems and biomedical data comparison.
 
-## ⚙️ Technologies Used
-Python – Core programming language used.
+The program also provides a visual representation of the analysis results using a **bar chart**.
 
-Matplotlib – For visualizing the pair analysis (bar chart output).
+---
 
-(Optional: pandas or numpy, if used in your code)
+##  Technologies Used
+- **Python** – Core programming language used  
+- **Matplotlib** – For visualizing the pair analysis (bar chart output)  
+- *(Optional: pandas or numpy, if used in your code)*
 
- ## 🧠 Features
+---
+
+##  Features
 
 - Accepts input data (pairs of scores/ranks)
 - Automatically calculates:
@@ -20,15 +24,10 @@ Matplotlib – For visualizing the pair analysis (bar chart output).
   -  Risk Ties
   -  Ties
   -  Permissible Pairs
-- Prints the calculated values to the terminal (Command Prompt) 
+- Prints the calculated values to the terminal (Command Prompt)
 - Generates a **bar chart** summarizing the results
 
-
-## 📁 Files Included 
-
-- `concordant_pairs.py` 
-- `output.png`
-- `README.md` 
+---
 
 ## 📊 Sample Input Used in Code
 
@@ -36,7 +35,8 @@ Matplotlib – For visualizing the pair analysis (bar chart output).
 times = [1, 2, 3, 4]
 risks = [4, 3, 2, 1]
 
-## 📈 Output Example
-
-![Analysis Graph](output.png)
+📁 Files Included
+concordant_pairs.py – Main Python script
+output.png – Bar chart output image
+README.md – Project documentation
 
