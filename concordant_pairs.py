@@ -35,3 +35,26 @@ print("Discordant Pairs:", discordant)
 print("Risk Ties:", risk_ties)
 print("Permissible Pairs:", permissible)
 print("Ties:", ties)
+
+# Example: These values should come from your actual logic
+concordant = 0
+discordant = 6
+risk_ties = 0
+permissible = 6
+ties = 0
+
+import matplotlib.pyplot as plt
+
+labels = ['Concordant', 'Discordant', 'Risk Ties', 'Permissible', 'Ties']
+values = [concordant, discordant, risk_ties, permissible, ties]
+colors = ['green', 'red', 'orange', 'blue', 'gray']
+
+plt.figure(figsize=(8, 5))
+plt.bar(labels, values, color=colors)
+plt.title('Concordant Pairs and Risk Ties Analysis')
+plt.ylabel('Count')
+plt.xlabel('Category')
+plt.savefig('output.png')  # This creates a new image file
+plt.show()
+
+
