@@ -1,17 +1,16 @@
 # Concordant Pairs and Risk Ties Analysis
 
 ##  Project Overview
-This project implements a Python program to analyze **Concordant Pairs**, **Discordant Pairs**, **Risk Ties**, **Ties**, and **Permissible Pairs** from a given dataset.  
-This type of analysis is useful in statistical evaluation, especially for evaluating relationships between variables in ranking systems and biomedical data comparison.
+This project implements a Python program to analyze Concordant Pairs, Discordant Pairs, Risk Ties, Ties, and Permissible Pairs from a given dataset.
+It is particularly useful for statistical evaluations, such as analyzing relationships between variables in ranking systems or biomedical data comparisons.
 
-The program also provides a visual representation of the analysis results using a **bar chart**.
+The program also generates a **bar chart** to visually represent the analysis results, making interpretation easier and more intuitive.
 
 ---
 
 ##  Technologies Used
 - **Python** – Core programming language used  
 - **Matplotlib** – For visualizing the pair analysis (bar chart output)  
-- *(Optional: pandas or numpy, if used in your code)*
 
 ---
 
